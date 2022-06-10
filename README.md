@@ -14,6 +14,6 @@ In this application we will create a full Functionality Mobile Application that 
 ### Follow me on Social media 
 <hr>
 
-[This my LinkedIn Profile](https://www.linkedin.com/in/ankitprakashprogrammer "LinkedIn profile") :iphone:
+[This is my LinkedIn Profile](https://www.linkedin.com/in/ankitprakashprogrammer "LinkedIn profile") :iphone:
 
 
